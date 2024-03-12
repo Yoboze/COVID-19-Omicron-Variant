@@ -17,7 +17,11 @@ Infectious disease epidemics are challenging for medical and public health pract
 * sys
 
 
-**To run the code: Check the folder Readme and follow the steps. 
-**
+**To run the code: Check the folder Readme and follow the steps.**
+
+
+
+
+
 **Below is the link to download the paper "Data-driven Deep Learning Neural Networks for Predicting the Number of Individuals Infected by COVID-19 Omicron Variant" published**
 https://www.mdpi.com/2673-3986/4/4/37
